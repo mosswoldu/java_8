@@ -1,4 +1,4 @@
-package lab8Stream;
+package Stream;
 
 import java.nio.file.DirectoryStream.Filter;
 import java.util.Arrays;
