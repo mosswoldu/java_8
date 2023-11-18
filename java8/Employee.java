@@ -1,4 +1,4 @@
-package lab8Stream;
+package Stream;
 
 public class Employee {
 	
